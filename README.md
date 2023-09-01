@@ -2,6 +2,7 @@
 ### 웹 디자인 기능반 수업자료 올리는 곳
 
 #### 1일차
+![image](https://github.com/dlclfh0404/webd2024/assets/106458316/041e231c-7ebe-44ef-9b37-ee04149fa057)
 
 #### 2일차
 ![image](https://github.com/dlclfh0404/webd2024/assets/106458316/a657067d-81c8-44f6-aaa1-b464a78c60d2)
