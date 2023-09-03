@@ -18,3 +18,7 @@
 
 ### 메뉴만들기
 ![image](https://github.com/dlclfh0404/webd2024/assets/106458316/ba0829e7-d148-4ed3-bd96-a75e6a0e00ba)
+
+### Popup Model 만들기
+![image](https://github.com/dlclfh0404/webd2024/assets/106458316/ce536121-3d69-4dc1-b51e-5eb3b60ba283)
+![image](https://github.com/dlclfh0404/webd2024/assets/106458316/1fde98dc-5a15-444e-b7eb-493e5e469ada)
