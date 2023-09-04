@@ -11,3 +11,4 @@
 - **6일차** : FaceBook login page 만들기
 - **7일차** : 메뉴만들기
 - **8일차** : Popup Model 만들기 , 웹디자인기능사 layout1 menu2
+- **9일차** : Pricing Card 만들기
