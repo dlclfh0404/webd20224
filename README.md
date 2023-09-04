@@ -1,6 +1,6 @@
 # 🏁 webd2024 (풀스택 웹기능반) 
 > 웹 디자인 기능반 수업자료 올리는 곳 <br>
-> <a href="https://dlclfh.notion.site/c58a752bc6224237b253cb27fa886591?pvs=4">Notion 정리</a>
+> <a href="https://dlclfh.notion.site/c58a752bc6224237b253cb27fa886591?pvs=4" taget="_blank">Notion 정리</a>
 
 ## 🚩 커리큘럼
 - **1일차** : 웹디자인 기능사 레이아웃 만들기
