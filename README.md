@@ -15,3 +15,4 @@
 - **10일차** : profile 만들기
 - **11일차** : Dark_light 모드 변경되는거 바뀌기
 - **12일차** : Pricing_card_sliding 만들기
+- **13일차** : Pricing_table 만들기
