@@ -16,3 +16,4 @@
 - **11일차** : Dark_light 모드 변경되는거 바뀌기
 - **12일차** : Pricing_card_sliding 만들기
 - **13일차** : Pricing_table 만들기, 웹디자인 기능사 layout1 menu3
+- **14일차** : custom_radio_button1, 2 만들기
