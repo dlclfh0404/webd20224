@@ -17,3 +17,4 @@
 - **12일차** : Pricing_card_sliding 만들기
 - **13일차** : Pricing_table 만들기, 웹디자인 기능사 layout1 menu3
 - **14일차** : custom_radio_button1, 2 만들기
+- **15일차** : webd_lay02_m04,05,06 만들기
