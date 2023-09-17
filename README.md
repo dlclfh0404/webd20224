@@ -20,4 +20,4 @@
 - **15일차** : webd_lay02_m04,05,06 만들기
 - **16일차** : webd_lay02_m04,05,06 수정 및 다시 만들어보기
 - **17일차** : Webd_menu S-1, Navigation-menu-hover 만들기
-- **17일차** : footer, Webd_menu S-2 만들기
+- **18일차** : footer, Webd_menu S-2 만들기
