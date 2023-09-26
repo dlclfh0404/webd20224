@@ -23,4 +23,5 @@
 - **18일차** : footer, Webd_menu S-2 만들기
 - **19일차** : custom_radio_button, webd_lay02_s04,05,06 만들기
 - **20일차** : Registration_Form 만들기 및 과제
-- **21일차** : 산업대학교 홈페이지 만들기   
+- **21일차** : 산업대학교 홈페이지 만들기
+- **22일차** : Vallery-Festival 홈페이지 만들기
