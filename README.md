@@ -25,3 +25,4 @@
 - **20일차** : Registration_Form 만들기 및 과제
 - **21일차** : 산업대학교 홈페이지 만들기
 - **22일차** : Vallery-Festival 홈페이지 만들기
+- **23일차** : Glowing_SNS_Icons 만들기
