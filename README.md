@@ -26,3 +26,4 @@
 - **21일차** : 산업대학교 홈페이지 만들기
 - **22일차** : Vallery-Festival 홈페이지 만들기
 - **23일차** : Glowing_SNS_Icons 만들기
+- **24일차** : SNS_HOVER 만들기
