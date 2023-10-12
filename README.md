@@ -28,3 +28,4 @@
 - **23일차** : Glowing_SNS_Icons 만들기
 - **24일차** : SNS_HOVER 만들기
 - **25일차** : Responsive Card Design 만들기
+- **26일차** : Login & Registration Form 만들기
