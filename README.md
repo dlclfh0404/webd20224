@@ -30,3 +30,4 @@
 - **25일차** : Responsive Card Design 만들기
 - **26일차** : Login & Registration Form , 서울구석구석 홈페이지 만들기
 - **27일차** : 3D Flip Buttons 만들기
+- **28일차** : Responsive Side Menu Bar CSS 만들기
