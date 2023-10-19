@@ -32,4 +32,5 @@
 - **27일차** : 3D Flip Buttons 만들기
 - **28일차** : Responsive Side Menu Bar CSS 만들기
 - **29일차** : Popup Login Form Design in HTML & CSS, Animated Glowing Inputs Login Form in HTML & CSS 만들기
+- **30일차** : Animated Skills Bar 만들기
   
