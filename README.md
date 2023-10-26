@@ -38,4 +38,5 @@
 - **33일차** : Age Calculator 만들기 - JAVASCRIPT 프로젝트
 - **34일차** : Tip Calulator 만들기 - JAVASCRIPT 프로젝트
 - **35일차** : dice roll simulator 만들기 - JAVASCRIPT 프로젝트
+- **36일차** : Pomodoro Timer 만들기 - JAVASCRIPT 프로젝트
 
