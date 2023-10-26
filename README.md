@@ -37,4 +37,5 @@
 - **32일차** : slider blog card, 강원 천문대 만들기
 - **33일차** : Age Calculator 만들기 - JAVASCRIPT 프로젝트
 - **34일차** : Tip Calulator 만들기 - JAVASCRIPT 프로젝트
-  
+- **35일차** : dice roll simulator 만들기 - JAVASCRIPT 프로젝트
+
