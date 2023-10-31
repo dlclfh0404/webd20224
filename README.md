@@ -40,4 +40,5 @@
 - **35일차** : dice roll simulator 만들기 - JAVASCRIPT 프로젝트
 - **36일차** : Pomodoro Timer 만들기 - JAVASCRIPT 프로젝트
 - **37일차** : Basic Calculator 만들기 - JAVASCRIPT 프로젝트
+- **38일차** : Stopwatch 만들기 - JAVASCRIPT 프로젝트
 
