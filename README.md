@@ -42,4 +42,5 @@
 - **37일차** : Basic Calculator 만들기 - JAVASCRIPT 프로젝트
 - **38일차** : Stopwatch 만들기 - JAVASCRIPT 프로젝트
 - **39일차** : Card with Dynamic Themes 만들기 - JAVASCRIPT 프로젝트
+- **40일차** : Image Slider 만들기 - JAVASCRIPT 프로젝트
 
