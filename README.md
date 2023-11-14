@@ -44,4 +44,5 @@
 - **39일차** : Card with Dynamic Themes 만들기 - JAVASCRIPT 프로젝트
 - **40일차** : Image Slider 만들기 - JAVASCRIPT 프로젝트
 - **41일차** : Digital clock 만들기 - JAVASCRIPT 프로젝트
+- **42일차** : Temperature Conversion 만들기 - JAVASCRIPT 프로젝트
 
