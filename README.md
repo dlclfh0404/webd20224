@@ -46,4 +46,5 @@
 - **41일차** : Digital clock 만들기 - JAVASCRIPT 프로젝트
 - **42일차** : Temperature Conversion 만들기 - JAVASCRIPT 프로젝트
 - **43일차** : Gradient Generator 만들기 - JAVASCRIPT 프로젝트
+- **44일차** : Blob Maker 만들기 - JAVASCRIPT 프로젝트
 
