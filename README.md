@@ -47,5 +47,6 @@
 - **42일차** : Temperature Conversion 만들기 - JAVASCRIPT 프로젝트
 - **43일차** : Gradient Generator 만들기 - JAVASCRIPT 프로젝트
 - **44일차** : Blob Maker 만들기 - JAVASCRIPT 프로젝트
-- **45일차** : TIp Calculator 만들기 - JAVASCRIPT 프로젝트
+- **45일차** : Tip Calculator 만들기 - JAVASCRIPT 프로젝트
+- **46일차** : Analog Clock 만들기 - JAVASCRIPT 프로젝트
 
