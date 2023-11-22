@@ -49,4 +49,5 @@
 - **44일차** : Blob Maker 만들기 - JAVASCRIPT 프로젝트
 - **45일차** : Tip Calculator 만들기 - JAVASCRIPT 프로젝트
 - **46일차** : Analog Clock 만들기 - JAVASCRIPT 프로젝트
+- **47일차** : Random Hex Color Code 만들기 - JAVASCRIPT 프로젝트
 
