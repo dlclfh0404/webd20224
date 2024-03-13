@@ -52,5 +52,8 @@
 - **47일차** : Random Hex Color Code 만들기 - JAVASCRIPT 프로젝트
 - **48일차** : Aspect Ratio Calculator 만들기 - JAVASCRIPT 프로젝트
 - **49일차** : Find Day Of The Week 만들기 - JAVASCRIPT 프로젝트
-- **50일차** : 웹 디자인 기능경기대회 - 1A유형 
+- **50일차** : 웹 디자인 기능경기대회 - 1C유형
+- **51일차** : 웹 디자인 기능경기대회 - 1B유형
+- **52일차** : 웹 디자인 기능경기대회 - 1A유형
+
 
